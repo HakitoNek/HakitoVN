@@ -35,7 +35,7 @@ banners=f"""
                                 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝║
                                 ║➢ Admin      : HAKITO                      ║                     
                                 ║➢ Telegram   : @HakitoVN                   ║                       
-                                ║➣ Youtube    : None                            ║                          
+                                ║➣ Youtube    : None                        ║                          
                                 ║➣ TIKTOK     : None                        ║                       
                                 ╚═══════════════════════════════════════════╝
 """
@@ -128,5 +128,6 @@ elif chon == "13.1":
     exec(requests.get('https://raw.githubusercontent.com/Hakito0909/HAKITO-VN/refs/heads/main/13.1.py').text)
 elif chon == "14.1":
     exec(requests.get('https://raw.githubusercontent.com/Hakito0909/HAKITO-VN/refs/heads/main/14.1.py').text)     
+
 
 exit(print("Lựa chọn sai"))
