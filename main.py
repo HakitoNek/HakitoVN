@@ -40,8 +40,8 @@ banners=f"""
                                 ╚═══════════════════════════════════════════╝
 """
 thongtin=f"""
-Vượt Link Để lấy Key Free : key có hiệu lục trong 20h
 ⚠ trong lúc dùng tool không đổi ip mạng
+Dùng tool nào lỗi nhắn cho ad nhé.
 """
 
 def lovec25(so):
@@ -131,3 +131,4 @@ elif chon == "14.1":
 
 
 exit(print("Lựa chọn sai"))
+
